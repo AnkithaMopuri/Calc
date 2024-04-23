@@ -197,8 +197,8 @@ buttons.forEach((button) => {
 
 
 ## OUTPUT:
-![alt text](<Screenshot (297).png>)
-![alt text](<Screenshot (298).png>)
+![alt text](<Screenshot (300).png>)
+![alt text](<Screenshot (301).png>)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
